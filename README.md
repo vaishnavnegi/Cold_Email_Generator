@@ -60,7 +60,7 @@ I was inspired by the original project by [Codebasics](https://github.com/codeba
 3. **Cold Email Generation**: Emails are generated using the **Llama 3.1** model running on **GroqCloud**.
    
 Sample Output:
-![img.png](imags/example.png)
+![img.png](images/example.png)
 
 ## Future Enhancements
 - **Multilingual Support**: Plan to implement email generation in multiple languages to target global clients.

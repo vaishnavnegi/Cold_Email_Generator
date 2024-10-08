@@ -12,7 +12,7 @@ I was inspired by the original project by [Codebasics](https://github.com/codeba
 - **Agile Service Pitching**: Helps small businesses pitch themselves as on-demand experts.
 
 ## Architecture Diagram
-![img.png](images/architecture.png)
+![img.png](images/flow.png)
 
 ## Technologies used
 - **GroqCloud**: Cloud platform hosting **Llama 3.1**.

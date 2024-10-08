@@ -3,7 +3,7 @@
 ### Overview
 This project provides a **cold email generation solution** aimed at **small enterprises** targeting **large client companies** for **human resources** and project-based services. It leverages **Llama 3.1** (via **GroqCloud**) and a **ChromaDB** vector store to create **context-aware** emails based on job postings from potential clients, positioning small businesses as flexible, cost-effective partners.
 
-I was inspired by the original project by [Codebasics](https://github.com/codebasics/project-genai-cold-email-generator) ([YouTube Video](https://youtu.be/CO4E_9V6li0?si=SPp8quNskqhYiak4)).
+I was inspired by the original project by [Codebasics](https://youtu.be/CO4E_9V6li0?si=SPp8quNskqhYiak4)).
 
 ## Some Advantages
 - **Automated Cold Email Generation**: Tailored emails based on client job listings.
